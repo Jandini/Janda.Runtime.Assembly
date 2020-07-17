@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](http://nas/matt/Janda.Runtime.Assembly/compare/1.1.0...1.2.0) (2020-07-17)
+
+
+### Features
+
+* Add dot packages ([e9748fe](http://nas/matt/Janda.Runtime.Assembly/commit/e9748fee0b506a9cab58097b9d685b2bc2118e67))
+* Add jenkins shared library to jenkins file ([eed11b2](http://nas/matt/Janda.Runtime.Assembly/commit/eed11b20ce5823722c48020c98809189e9f35967))
+* Bump dot packages version to 0.3.0 ([0dc9788](http://nas/matt/Janda.Runtime.Assembly/commit/0dc97886df5a7d91ecaef1ddd1e693cd61890957))
+
 ## 1.1.0 (2020-06-14)
 
 
