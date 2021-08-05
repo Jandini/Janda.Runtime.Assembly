@@ -1,5 +1,7 @@
 # Janda.Runtime.Assembly
 
+[![.NET](https://github.com/Jandini/Janda.Runtime.Assembly/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Jandini/Janda.Runtime.Assembly/actions/workflows/dotnet.yml)
+
 Provides assembly logger service.
 
 ### Add assembly logging
